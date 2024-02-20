@@ -342,7 +342,7 @@ h1, h2, h3, h4, h5, h6 {
 @media screen and (max-width: 768px) {
   .qbootstrap-cover,
   .video-hero {
-    heifght: inherit;
+    background-position-x: center !important;
     padding: 3em 0;
   }
 }
@@ -355,7 +355,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 2;
 }
 @media screen and (max-width: 768px) {
-  .qbootstrap-cover .display-t,
+  .qbootstrap-cover .display-t
   .video-hero .display-t {
     height: 600px;
   }
@@ -667,6 +667,7 @@ h1, h2, h3, h4, h5, h6 {
 @media screen and (max-width: 768px) {
   #qbootstrap-countdown .section-heading h2 {
     font-size: 30px;
+    background-position-x: center !important;
   }
 }
 #qbootstrap-countdown .section-heading .datewed {
@@ -1215,6 +1216,7 @@ h1, h2, h3, h4, h5, h6 {
 @media screen and (max-width: 768px) {
   #qbootstrap-started .section-heading h2 {
     font-size: 30px;
+    background-position-x: center !important;
   }
 }
 #qbootstrap-started .section-heading h3 {
