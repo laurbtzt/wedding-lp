@@ -1226,6 +1226,9 @@ h6 {
   .wedding-events {
     margin-bottom: 2em;
   }
+  .wedding-events .date {
+    margin-top: 4rem;
+  }
 }
 .wedding-events .ceremony-bg {
   background-size: cover;
