@@ -395,7 +395,6 @@ h6 {
   width: 100px;
   height: 2px;
   background: #fff;
-  content: '';
 }
 .qbootstrap-cover .display-tc .holder span:before,
 .video-hero .display-tc .holder span:before {
