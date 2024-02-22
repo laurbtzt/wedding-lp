@@ -380,7 +380,6 @@ h6 {
   color: #fff;
   font-family: 'Source Sans Pro', Arial, sans-serif;
   font-size: 18px;
-  text-transform: uppercase;
   letter-spacing: 10px;
 }
 .qbootstrap-cover .display-tc .holder span,
@@ -749,7 +748,7 @@ h6 {
   color: #fff;
 }
 @media screen and (max-width: 768px) {
-  #qbootstrap-countdown .section-heading h2 {
+    #qbootstrap-countdown .section-heading h2 {
     font-size: 30px;
     background-position-x: center !important;
   }
