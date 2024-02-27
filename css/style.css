@@ -1816,6 +1816,7 @@ div.parallax-image1 {
   background-size: cover;
   background-position-x: center;
   background-position-y: center;
+  z-index: -1;
 }
 @media screen and (max-width: 768px) {
   div.parallax-image1 {
