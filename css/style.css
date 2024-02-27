@@ -1290,7 +1290,7 @@ h6 {
 
 #qbootstrap-started {
   position: relative;
-}
+  }
 #qbootstrap-started .section-heading {
   margin-bottom: 0 !important;
 }
@@ -1828,6 +1828,7 @@ div.parallax-image2 {
   background-size: cover;
   background-position-x: center;
   background-position-y: center;
+  z-index: -1;
 }
 @media screen and (max-width: 768px) {
   div.parallax-image2 {
@@ -1840,6 +1841,7 @@ div.parallax-image3 {
   background-size: cover;
   background-position-x: center;
   background-position-y: center;
+  z-index: -1;
 }
 
 .sticky {
